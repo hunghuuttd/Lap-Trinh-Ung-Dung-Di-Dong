@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:android-adapters:1.4.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../DiemDanhApp/caches/transforms-3/d9fc78aaa0409bc67217343ebc19e6d6/transformed/jetified-android-adapters-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../DiemDanhApp/caches/transforms-3/d9fc78aaa0409bc67217343ebc19e6d6/transformed/jetified-android-adapters-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../DiemDanhApp/caches/modules-2/files-2.1/io.realm/android-adapters/1.4.0/2b454965deccf8fd19425cbc948c705bb01b65f0/android-adapters-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../DiemDanhApp/caches/modules-2/files-2.1/io.realm/android-adapters/1.4.0/248e18931684f014a3a7190edc151eb2c4784239/android-adapters-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-annotations:10.17.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.realm" artifactId="realm-annotations" version="10.17.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../DiemDanhApp/caches/modules-2/files-2.1/io.realm/realm-annotations/10.17.0/24d853cd122e3e9387334666ff44c219b8023f41/realm-annotations-10.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../DiemDanhApp/caches/modules-2/files-2.1/io.realm/realm-annotations/10.17.0/ed3f9e3ba6ab909d5efc969838c73400e3b948d8/realm-annotations-10.17.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../DiemDanhApp/caches/modules-2/files-2.1/io.realm/realm-annotations/10.17.0/c9fe8daec17c3e58f79cde8cfe4a6c54de75cf64/realm-annotations-10.17.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

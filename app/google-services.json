@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "4917956086",
+    "firebase_url": "https://final-project-map-20193051-default-rtdb.firebaseio.com",
+    "project_id": "final-project-map-20193051",
+    "storage_bucket": "final-project-map-20193051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4917956086:android:d2e8d29c90ac1b8ebe4bd7",
+        "android_client_info": {
+          "package_name": "com.Final_Project_MAP.phongbt193051"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPkbmIjqLIVFjBKVpFhOlWGkZZPugXW0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
